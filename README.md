@@ -1,10 +1,11 @@
-# roblox.vision
-Roblox's V I S I O N - Root domain version
+# Roblox's V I S I O N
 
---------------------------------------------
+Welcome to Roblox.Vision. *This site is fan owned and is not an official Roblox website.*
 
-Domain owned by Dave *"railworks2"* Brown - Video owned by Gh0stRunner who I have no connection with.
+There isn't much here expect the source code.
 
---------------------------------------------
+Video provided by Gh0stRunner, no relations with this person.
 
-If you wish to contact me in regards to this, please email legal@railworks2.com or the@roblox.vision and I'll get back as soon as I can.
+Legal contact: legal@roblox.vision
+
+Twitter: [@railworks2rblx](https://twitter.com/railworks2rblx)
