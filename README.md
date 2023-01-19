@@ -7,5 +7,4 @@ There isn't much here expect the source code.
 Video provided by Gh0stRunner, no relations with this person.
 
 Legal contact: legal@roblox.vision
-
-Twitter: [@railworks2rblx](https://twitter.com/railworks2rblx)
+Personal social media: [verify.rail.works](https://verify.rail.works/)
